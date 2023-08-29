@@ -17,8 +17,15 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 <div>
   <img src="https://img.freepik.com/icones-gratis/html5_318-903450.jpg?w=2000" height="35px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="35px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35px">
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" height="35px">
+
+  <img src="https://github.com/AgriTechAcademyPI/Documentos/assets/94076366/86c28e41-2a3b-4262-96eb-099292ea9eaf" height="35px">
+
+
+  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35px">
+   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" height="35px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="35px">
 </div>
