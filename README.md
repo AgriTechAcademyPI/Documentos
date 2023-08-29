@@ -14,9 +14,11 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 
 ## Equipe
 
-<img src="https://avatars.githubusercontent.com/u/101424784?v=4" height="35px"> [Jonas Pereira de Godoi](https://github.com/TonhoJonas) - Scrum Master
-<img src="https://avatars.githubusercontent.com/u/100449058?v=4" height="35px"> [Vinícius Mendonça](https://github.com/ViniciusMendonca12) - Product Owner
-<img src="https://avatars.githubusercontent.com/u/117932713?v=4" height="35px"> [Cristhian Cesar Gabriel](https://github.com/AlekiBr)
+<img src="https://avatars.githubusercontent.com/u/128511053?v=4" height="35px"> [Jonas Pereira de Godoi](https://github.com/TonhoJonas) - Scrum Master
+
+<img src="https://avatars.githubusercontent.com/u/94076366?v=4" height="35px"> [Vinícius Mendonça](https://github.com/ViniciusMendonca12) - Product Owner
+
+<img src="https://avatars.githubusercontent.com/u/102824980?v=4" height="35px"> [Cristhian Cesar Gabriel](https://github.com/AlekiBr)
 
 ## Matriz de Habilidades
 
