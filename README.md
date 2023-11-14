@@ -72,3 +72,20 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 | 25/10/2023 | Testes                                |
 | 01/11/2023 | Vídeo de apresentação                |
 | 13/11/2023 | Entrega do vídeo                      |
+
+
+## Nova SoftSkills
+
+| Nome      | Flexibilidade | Trabalho em Equipe | Comunicação | Liderança | Autonomia | Relacionamento Interpessoal | Motivação |
+|-----------|---------------|--------------------|-------------|-----------|-----------|----------------------------|-----------|
+| Vinícius  | 4             | 3                  | 5           | 5         | 4         | 5                          | 5         |
+| Jonas     | 5             | 5                  | 5           | 4         | 3         | 5                          | 4         |
+| Cristhian | 4             | 5                  | 4           | 3         | 4         | 4                          | 4         |
+
+### Nova HardSkills
+
+| Nome      | Figma | Node.JS | Express | Sequelize | EJS | JavaScript | HTML | CSS | MYSQL | BOOTSTRAP |
+|-----------|-------|---------|---------|-----------|-----|------------|------|-----|-------|-----------|
+| Vinícius  | 3     | 5       | 4       | 5         | 5   | 4          | 4    | 4   | 4     | 3         |
+| Jonas     | 3     | 1       | 1       | 1         | 1   | 2          | 4    | 3   | 5     | 4         |
+| Cristhian | 5     | 2       | 1       | 1         | 1   | 3          | 4    | 4   | 4     | 3         |
