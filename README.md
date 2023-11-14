@@ -80,7 +80,7 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 |-----------|---------------|--------------------|-------------|-----------|-----------|----------------------------|-----------|
 | Vinícius  | 4             | 3                  | 5           | 5         | 4         | 5                          | 5         |
 | Jonas     | 5             | 5                  | 5           | 4         | 3         | 5                          | 4         |
-| Cristhian | 4             | 5                  | 4           | 3         | 4         | 4                          | 4         |
+| Cristhian | 5             | 5                  | 4           | 3         | 4         | 5                          | 5         |
 
 ### Nova HardSkills
 
@@ -88,4 +88,4 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 |-----------|-------|---------|---------|-----------|-----|------------|------|-----|-------|-----------|
 | Vinícius  | 3     | 5       | 4       | 5         | 5   | 4          | 4    | 4   | 4     | 3         |
 | Jonas     | 3     | 1       | 1       | 1         | 1   | 2          | 4    | 3   | 5     | 4         |
-| Cristhian | 5     | 2       | 1       | 1         | 1   | 3          | 4    | 4   | 4     | 3         |
+| Cristhian | 5     | 3       | 1       | 1         | 2   | 4          | 5    | 5   | 4     | 4         |
