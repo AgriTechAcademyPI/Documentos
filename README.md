@@ -38,7 +38,6 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 
 <img src="https://avatars.githubusercontent.com/u/94076366?v=4" height="35px"> [Vinícius Mendonça](https://github.com/ViniciusMendonca12) - Product Owner
 
-<img src="https://avatars.githubusercontent.com/u/102824980?v=4" height="35px"> [Cristhian Cesar Gabriel](https://github.com/AlekiBr)
 
 ## Matriz de Habilidades
 
@@ -48,7 +47,6 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 |-----------|---------------|--------------------|-------------|-----------|-----------|----------------------------|-----------|
 | Vinícius  | 4             | 3                  | 5           | 5         | 4         | 5                          | 4         |
 | Jonas     | 5             | 5                  | 5           | 4         | 3         | 5                          | 4         |
-| Cristhian | 4             | 5                  | 4           | 3         | 4         | 4                          | 4         |
 
 ### HardSkills
 
@@ -56,7 +54,6 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 |-----------|-------|---------|---------|-----------|-----|------------|------|-----|-------|-----------|
 | Vinícius  | 3     | 4       | 3       | 3         | 3   | 4          | 4    | 4   | 4     | 3         |
 | Jonas     | 3     | 1       | 1       | 1         | 1   | 2          | 4    | 3   | 5     | 4         |
-| Cristhian | 5     | 2       | 1       | 1         | 1   | 3          | 4    | 4   | 4     | 3         |
 
 ## Cronograma
 
@@ -80,7 +77,6 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 |-----------|---------------|--------------------|-------------|-----------|-----------|----------------------------|-----------|
 | Vinícius  | 4             | 3                  | 5           | 5         | 4         | 5                          | 5         |
 | Jonas     | 5             | 5                  | 5           | 4         | 3         | 5                          | 4         |
-| Cristhian | 5             | 5                  | 4           | 3         | 4         | 5                          | 5         |
 
 ### Nova HardSkills
 
@@ -88,4 +84,3 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 |-----------|-------|---------|---------|-----------|-----|------------|------|-----|-------|-----------|
 | Vinícius  | 3     | 5       | 4       | 5         | 5   | 4          | 4    | 4   | 4     | 3         |
 | Jonas     | 3     | 1       | 1       | 1         | 1   | 2          | 4    | 3   | 5     | 4         |
-| Cristhian | 5     | 3       | 1       | 1         | 2   | 4          | 5    | 5   | 4     | 4         |
