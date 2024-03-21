@@ -65,7 +65,6 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 | 30/05/2024 | Funcionalidades Completas Back-End    |
 | 07/06/2024 | Sprint 3                              |
 | 14/06/2024 | Projeto FInalizado                    |
-
 | 25/06/2024 | Apresentação Final                    |
 
 
