@@ -41,46 +41,33 @@ O projeto *AgriTech Academy* visa a construção de um site educacional voltado 
 
 ## Matriz de Habilidades
 
-### SoftSkills
+## Nova SoftSkills
 
 | Nome      | Flexibilidade | Trabalho em Equipe | Comunicação | Liderança | Autonomia | Relacionamento Interpessoal | Motivação |
 |-----------|---------------|--------------------|-------------|-----------|-----------|----------------------------|-----------|
-| Vinícius  | 4             | 3                  | 5           | 5         | 4         | 5                          | 4         |
+| Vinícius  | 4             | 3                  | 4           | 5         | 4         | 5                          | 5         |
 | Jonas     | 5             | 5                  | 5           | 4         | 3         | 5                          | 4         |
 
-### HardSkills
+### Nova HardSkills
 
-| Nome      | Figma | Node.JS | Express | Sequelize | EJS | JavaScript | HTML | CSS | MYSQL | BOOTSTRAP |
+| Nome      | Figma | Node.JS | Express | Knex      | EJS | JavaScript | HTML | CSS | MYSQL | BOOTSTRAP |
 |-----------|-------|---------|---------|-----------|-----|------------|------|-----|-------|-----------|
-| Vinícius  | 3     | 4       | 3       | 3         | 3   | 4          | 4    | 4   | 4     | 3         |
+| Vinícius  | 3     | 5       | 4       | 5         | 5   | 4          | 4    | 4   | 4     | 3         |
 | Jonas     | 3     | 1       | 1       | 1         | 1   | 2          | 4    | 3   | 5     | 4         |
 
 ## Cronograma
 
 | Data       | Atividade                             |
 |------------|---------------------------------------|
-| 30/08/2023 | Git: Projeto com Escopo e Cronograma |
-| 18/09/2023 | MVP                                   |
-| 18/09/2023 | Mockup                                |
-| 25/09/2023 | Telas FrontEnd                        |
-| 30/09/2023 | Rotas                                 |
-| 30/09/2023 | Estruturação do Banco de Dados        |
-| 22/10/2023 | Funcionalidades BackEnd               |
-| 25/10/2023 | Testes                                |
-| 01/11/2023 | Vídeo de apresentação                |
-| 13/11/2023 | Entrega do vídeo                      |
+| 12/04/2024 | Sprint 1                              |
+| 30/04/2024 | Telas Front-En                        |
+| 03/05/2024 | Sprint 2                              |
+| 30/05/2024 | Funcionalidades Completas Back-End    |
+| 07/06/2024 | Sprint 3                              |
+| 14/06/2024 | Projeto FInalizado                    |
+
+| 25/06/2024 | Apresentação Final                    |
 
 
-## Nova SoftSkills
 
-| Nome      | Flexibilidade | Trabalho em Equipe | Comunicação | Liderança | Autonomia | Relacionamento Interpessoal | Motivação |
-|-----------|---------------|--------------------|-------------|-----------|-----------|----------------------------|-----------|
-| Vinícius  | 4             | 3                  | 5           | 5         | 4         | 5                          | 5         |
-| Jonas     | 5             | 5                  | 5           | 4         | 3         | 5                          | 4         |
 
-### Nova HardSkills
-
-| Nome      | Figma | Node.JS | Express | Sequelize | EJS | JavaScript | HTML | CSS | MYSQL | BOOTSTRAP |
-|-----------|-------|---------|---------|-----------|-----|------------|------|-----|-------|-----------|
-| Vinícius  | 3     | 5       | 4       | 5         | 5   | 4          | 4    | 4   | 4     | 3         |
-| Jonas     | 3     | 1       | 1       | 1         | 1   | 2          | 4    | 3   | 5     | 4         |
